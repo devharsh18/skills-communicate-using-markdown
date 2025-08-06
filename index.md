@@ -2,7 +2,6 @@
 
 ![My Favorite Octocat](https://octodex.github.com/images/yaktocat.png)
 
-def greet(name):
-    return f"Hello, {name}!"
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
-print(greet("GitHub"))
